@@ -1,0 +1,9 @@
+C:\Users\Lalon\Desktop\School\Current projects\COMP 60 - GUI C#\COMP60_A2_Lalonde\bin\Debug\COMP60_A2_Lalonde.exe.config
+C:\Users\Lalon\Desktop\School\Current projects\COMP 60 - GUI C#\COMP60_A2_Lalonde\bin\Debug\COMP60_A2_Lalonde.exe
+C:\Users\Lalon\Desktop\School\Current projects\COMP 60 - GUI C#\COMP60_A2_Lalonde\bin\Debug\COMP60_A2_Lalonde.pdb
+C:\Users\Lalon\Desktop\School\Current projects\COMP 60 - GUI C#\COMP60_A2_Lalonde\obj\Debug\COMP60_A2_Lalonde.csprojAssemblyReference.cache
+C:\Users\Lalon\Desktop\School\Current projects\COMP 60 - GUI C#\COMP60_A2_Lalonde\obj\Debug\COMP60_A2_Lalonde.Properties.Resources.resources
+C:\Users\Lalon\Desktop\School\Current projects\COMP 60 - GUI C#\COMP60_A2_Lalonde\obj\Debug\COMP60_A2_Lalonde.csproj.GenerateResource.cache
+C:\Users\Lalon\Desktop\School\Current projects\COMP 60 - GUI C#\COMP60_A2_Lalonde\obj\Debug\COMP60_A2_Lalonde.exe
+C:\Users\Lalon\Desktop\School\Current projects\COMP 60 - GUI C#\COMP60_A2_Lalonde\obj\Debug\COMP60_A2_Lalonde.pdb
+C:\Users\Lalon\Desktop\School\Current projects\COMP 60 - GUI C#\COMP60_A2_Lalonde\obj\Debug\COMP60_A2_Lalonde.LetterOfDoom.resources
